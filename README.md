@@ -1,7 +1,6 @@
 # synclocal-auto
 
-The project goal is auto-sync the source and destination.
-
+Le but du projet est de faire une synchronisation automatique à partir d'un dossier source vers un dossier où l'on veut faire la sauvegarde.
 
 - 1) Execute Sync-Toggle.cmd
 
