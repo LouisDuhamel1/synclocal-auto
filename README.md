@@ -2,24 +2,4 @@
 
 Le but du projet est de faire une synchronisation automatique à partir d'un dossier source vers un dossier où l'on veut faire la sauvegarde.
 
-- 1) Execute Sync-Toggle.cmd
-
-
-- 2 Choose a source
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Final Choose a Destination
-
-
-
+[Lien vers la release](https://github.com/LouisDuhamel1/synclocal-auto/releases/tag/Inintial)
